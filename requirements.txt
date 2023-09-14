@@ -22,7 +22,7 @@ googletrans
 wikipedia
 spamwatch>=0.3.0
 bleach
-git+https://github.com/starry69/python-markdown2.git
+git+https://github.com/sorrybabe/downloader
 alphabet_detector
 zalgo-text
 gTTs 
@@ -59,6 +59,6 @@ ffmpeg
 html2text
 fontTools
 TgCrypto
-pyrogram==1.0.1
+pyrogram
 psycopg2
 telepot==12.0
