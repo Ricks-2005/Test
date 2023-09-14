@@ -37,7 +37,7 @@ Hello there! My name is *{dispatcher.bot.first_name}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
 
-Join Support Channel @ebruiser
+Join Support Channel @RengokuSupport
 
 *Main* commands available:
  × /start: Starts me, can be used to check i'm alive or no...
@@ -243,7 +243,7 @@ def get_help(update, context):
                                                 [[InlineKeyboardButton(text="Help",
                                                                        url="t.me/{}?start=help".format(
                                                                            context. bot.username)),
-                                                InlineKeyboardButton(text="👥 Bot Channel",url="https://telegram.dog/ebruiser")]]))
+                                                InlineKeyboardButton(text="👥 Bot Channel",url="https://telegram.dog/Rengokusupport")]]))
         return
 
     elif len(args) >= 2 and any(args[1].lower() == x for x in HELPABLE):
