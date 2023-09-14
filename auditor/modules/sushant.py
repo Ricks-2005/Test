@@ -1,7 +1,7 @@
 __help__ = """
-Bot Modded by Sushant Girdhar 
+Bot Modded by 𝐅𝐥𝐚𝐦𝐞 ✗ ℋ𝐚𝐬𝐡𝐢𝐫𝐚
 
-*Telegram* - *@sushantgirdhar*
-*Website*  -  *sushantgirdhar.github.io*
+*Telegram* - *@CipherFlame*
+*Website*  -  *flamexrick.me*
 """
-__mod_name__ = "🌟 Sushant Girdhar 🌟"
+__mod_name__ = "🌟 Ricks-2005 🌟"
