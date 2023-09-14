@@ -22,12 +22,11 @@ from auditor.modules.helper_funcs.alternate import typing_action
 
 PM_START_TEXT = f"""
 Hey there! my name is *{dispatcher.bot.first_name}*- To Find out full potential features check /help \n\n\
-I'm maintained by [this](t.me/sushantgirdhar) awesome person.  
-
+I hope I'll be able to manage your groups efficiently
 """
 
 
-buttons = [[InlineKeyboardButton(text="Add me to Group 👥", url="t.me/auditor_probot?startgroup=true")]]
+buttons = [[InlineKeyboardButton(text="Add me to Group 👥", url="t.me/SpanGuardianBot?startgroup=true")]]
 
 buttons += [[InlineKeyboardButton(text="Help & Commands ❔", callback_data="help_back")]]
 
